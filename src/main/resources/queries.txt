@@ -1,0 +1,2 @@
+create table EMPLOYEE(EMPID Int primary key,empname varchar(50),empsal float, empdept varchar(50)) ;
+insert into EMPLOYEE values (1,'gopal',50000,'dev');
